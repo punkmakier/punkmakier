@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark Allan Carba</h1>
 <h3 align="center">I am Full-Stack Web Developer | Software Engineer, working on a vast variety of challenging projects. Skilled in both UI/UX design for modern websites and building robust backend servers.</h3>
+<img align="right" alt="Mark Allan Carba coding animated" width="400" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punkmakier&label=Profile%20views&color=0e75b6&style=flat" alt="punkmakier" /> </p>
 
