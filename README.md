@@ -41,7 +41,7 @@ status: Open to Freelance & Full-Time Opportunities
 ### `$ cat current.log`
 
 ```bash
-🔭  Building    → Healthcare System
+🔭  Building    → KAAMAZE IT Solutions Automation
 🌱  Learning    → Docker · AWS · Nuxt.js
 ⚡  Available   → Freelance & Full-time roles
 📫  Contact     → carbamark@gmail.com
