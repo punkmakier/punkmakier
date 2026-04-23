@@ -41,7 +41,7 @@ status: Open to Freelance & Full-Time Opportunities
 ### `$ cat current.log`
 
 ```bash
-🔭  Building    → KAAMAZE IT Solutions Automation
+🔭  Building    → Healthcare System
 🌱  Learning    → Docker · AWS · Nuxt.js
 ⚡  Available   → Freelance & Full-time roles
 📫  Contact     → carbamark@gmail.com
@@ -86,16 +86,34 @@ status: Open to Freelance & Full-Time Opportunities
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-7C3AED?style=flat-square&logo=coolify&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+**Analytics & Marketing**
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-008272?style=flat-square&logo=microsoft&logoColor=white)
+
+**AI Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok_AI-000000?style=flat-square&logo=x&logoColor=white)
 
 **Tools & Design**
 
@@ -114,7 +132,7 @@ status: Open to Freelance & Full-Time Opportunities
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=punkmakier&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=punkmakier&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
